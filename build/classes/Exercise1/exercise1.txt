@@ -1,0 +1,6 @@
+Coca-cola:10.00
+Coca-cola light:12.00
+Sprite:10.00
+Boing:7.00
+Sabritas:8.00
+Kinder:9.00
